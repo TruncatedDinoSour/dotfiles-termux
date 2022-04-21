@@ -1,0 +1,14 @@
+.viminfo
+node_modules
+cache/
+accounts/
+.ssh
+*.gpg
+/home/config/coc/extensions/
+undodir/
+.VimballRecord
+.netrwhist
+.github
+codeql-analysis.yml
+a.tar.gz
+
