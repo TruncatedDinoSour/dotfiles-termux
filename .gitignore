@@ -4,7 +4,7 @@ cache/
 accounts/
 .ssh
 *.gpg
-/home/config/coc/extensions/
+/home/.config/coc/extensions/
 undodir/
 .VimballRecord
 .netrwhist
